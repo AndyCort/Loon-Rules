@@ -1,9 +1,75 @@
-# 社交与通讯
+# textnow
+DOMAIN-KEYWORD,textnow,US
+DOMAIN,api.prod.textnow.me,US
+DOMAIN,sdk-events.inner-active.mobi,US
+DOMAIN,browser-intake-datadoghq.com,US
+DOMAIN-KEYWORD,tktn,US
 
-# 影音与流媒体
 
-# 开发工具
+# 社群
+DOMAIN-KEYWORD,dcard,Dcard
+DOMAIN-SUFFIX,nodeseek.com,PROXY
+DOMAIN-KEYWORD,v2ex.com,PROXY
+DOMAIN-SUFFIX,whispersystems.org,Signal
+DOMAIN-KEYWORD,signal,Signal
 
-# 云服务
+
+# VPS
+DOMAIN,zouter.1314451.xyz,DIRECT
+
 
 # 其他
+DOMAIN-KEYWORD,qq.com,DIRECT
+DOMAIN-KEYWORD,ra2web,DIRECT
+DOMAIN,aoo.sonobus.net,DIRECT
+DOMAIN-SUFFIX,163.com,DIRECT
+DOMAIN-KEYWORD,yikaobang,DIRECT
+DOMAIN-KEYWORD,10010,DIRECT
+DOMAIN-KEYWORD,istatmenus,istat menu
+DOMAIN-SUFFIX,etymonline.com,PROXY
+DOMAIN-SUFFIX,uhdnow.com,UHDNOW
+DOMAIN-KEYWORD,oracle,DIRECT
+DOMAIN-SUFFIX,wikipedia.org,PROXY
+DOMAIN-KEYWORD,speed,PROXY
+
+
+# 18+
+DOMAIN,sex8.cc,US
+DOMAIN-KEYWORD,cool18.com,PROXY
+DOMAIN-KEYWORD,6park,PROXY
+DOMAIN,exhentai.org,ehentai
+DOMAIN-SUFFIX,e-hentai.org,ehentai
+DOMAIN-SUFFIX,18comic.vip,JM
+
+
+# AI
+DOMAIN-SUFFIX,pixai.art,PROXY
+DOMAIN-KEYWORD,xiangcao,US
+DOMAIN-KEYWORD,deepseek,DeepSeek
+
+
+# Apple
+DOMAIN,email.images.apple.com,Direct
+DOMAIN,metrics.icloud.com,Direct
+DOMAIN,gsa.apple.com,Direct
+
+
+# Microsoft
+DOMAIN,login.live.com,Direct
+DOMAIN,mobile.events.data.microsoft.com,Direct
+DOMAIN-KEYWORD,copilot,PROXY
+
+
+# Google
+DOMAIN,app-analytics-services.com,PROXY
+DOMAIN-KEYWORD,googleads,Google Ads
+
+
+# Tailscale
+IP-CIDR,100.64.0.0/10,DIRECT,no-resolve
+IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
+DOMAIN,iphone,DIRECT
+DOMAIN,mac,DIRECT
+DOMAIN-SUFFIX,ts.net,DIRECT
+DOMAIN-SUFFIX,tailscale.io,DIRECT
+DOMAIN-SUFFIX,tailscale.com,DIRECT
